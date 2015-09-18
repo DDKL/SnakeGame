@@ -1,0 +1,25 @@
+#wrapper{
+    
+}
+
+#playground{
+    border:1px solid grey;
+    width: 500px;
+    height: 300px;
+}
+
+.bottom{
+    
+}
+
+.bottom .alert{
+    color:black;
+}
+.bottom .score{
+    display:inline-block;
+}
+
+button{
+  cursor:pointer;
+  text-transform: uppercase;
+}

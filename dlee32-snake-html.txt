@@ -1,0 +1,16 @@
+    <div id="wrapper">
+        <canvas id="playground">
+            
+        </canvas>
+        <div class="bottom">
+            <div class="score">
+               Score: 
+               <span id="score_board">0</span>
+            </div>
+            <div class="alert" style="display:none">You lose. Click START to play.
+            </div>
+            <button class="start">Start</button>
+
+        </div>
+            
+    </div>
